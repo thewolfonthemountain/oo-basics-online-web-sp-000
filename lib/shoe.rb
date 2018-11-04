@@ -10,7 +10,7 @@ end
 
 def cobble
   puts "Shoe has been repaired"
-  :condition = "New"
-end 
+  condition = "New"
+end
 
 end
